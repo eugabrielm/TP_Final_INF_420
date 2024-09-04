@@ -1,0 +1,11 @@
+torch
+torchvision
+Pillow
+argparse
+imageio
+opencv-python
+numpy
+pandas
+matplotlib
+wget
+git+https://github.com/jacobgil/pytorch-grad-cam.git
